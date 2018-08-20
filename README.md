@@ -14,3 +14,17 @@ Learn how to gather textures, map them to your models and what the various map t
 
 Michael welcomes you to the new section.
 
+### 2 Creating a New Work Space
+
+**In this video (objectives)…**
+
+1. Create a new work space
+2. Name it appropriately
+3. Adjust the layout of the work space
+
+
+**After watching (learning outcomes)…**
+
+Manipulate Blenders interface and set it up for yourself.
+
+
