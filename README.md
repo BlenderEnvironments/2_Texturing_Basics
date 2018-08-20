@@ -14,7 +14,7 @@ Learn how to gather textures, map them to your models and what the various map t
 
 Michael welcomes you to the new section.
 
-### 2 Creating a New Work Space
+### 2 Creating A New Work Space
 
 **In this video (objectives)…**
 
@@ -26,5 +26,19 @@ Michael welcomes you to the new section.
 **After watching (learning outcomes)…**
 
 Manipulate Blenders interface and set it up for yourself.
+
+### 3 Introduction To The UV Image Editor
+
+**In this video (objectives)…**
+
+1. Opened an image
+2. Panned and Zoomed
+3. Discovered an Images Properties
+
+
+**After watching (learning outcomes)…**
+
+You will be comfortable using the UV Image Editor
+
 
 
