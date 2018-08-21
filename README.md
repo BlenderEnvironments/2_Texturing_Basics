@@ -70,3 +70,17 @@ Understand what a texture is and how it can be used
 
 You will understand that nodes are a form of visual programming with various input and outputs
 
+### 6 What Is UV Mapping?
+
+**In this video (objectives)…**
+
+1. Understand what we use UV Unwrapping for
+2. Texture Co-ordinate node
+3. How to quickly unwrap a model
+
+
+**After watching (learning outcomes)…**
+
+You will understand that you need to tell Blender **HOW** to apply am image to a model.
+
+
