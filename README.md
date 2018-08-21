@@ -57,10 +57,16 @@ You will be comfortable using the UV Image Editor
 
 Understand what a texture is and how it can be used
 
+### 5 Material Node Introduction
+
+**In this video (objectives)…**
+
+1. Understand Nodes - moving adding and deleting
+2. Understand the 4 different connection types
+3. Naming and grouping are important!
 
 
+**After watching (learning outcomes)…**
 
-
-
-
+You will understand that nodes are a form of visual programming with various input and outputs
 
