@@ -83,4 +83,14 @@ You will understand that nodes are a form of visual programming with various inp
 
 You will understand that you need to tell Blender **HOW** to apply am image to a model.
 
+### 7 Setting Up Material Studies
+
+**In this video (objectives)…**
+
+1. Setup a series of objects to represent how your materials look on different surfaces.
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
 
