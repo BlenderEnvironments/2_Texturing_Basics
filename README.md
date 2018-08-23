@@ -106,3 +106,13 @@ You will understand that you need to tell Blender **HOW** to apply am image to a
 
 You will be able to create geometry where there wasn't any before!
 
+### 9 Making Links
+
+**In this video (objectives)…**
+
+1. Copying The Modifier Stack
+2. Works on several other items as well!
+
+**After watching (learning outcomes)…**
+
+Copy select properties of one object to one or more objects
