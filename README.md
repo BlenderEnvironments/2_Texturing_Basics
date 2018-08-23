@@ -93,4 +93,16 @@ You will understand that you need to tell Blender **HOW** to apply am image to a
 
 < What the student will be able to do, space above important >
 
+### 8 Using A Height Or Displacement Map
+
+**In this video (objectives)…**
+
+1. Height map is a type of bump map
+2. Use The Subdivision modifier to generate geometry
+3. Using the displacement modifier 
+
+
+**After watching (learning outcomes)…**
+
+You will be able to create geometry where there wasn't any before!
 
