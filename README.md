@@ -116,3 +116,17 @@ You will be able to create geometry where there wasn't any before!
 **After watching (learning outcomes)…**
 
 Copy select properties of one object to one or more objects
+
+### 10 Normal Maps
+
+**In this video (objectives)…**
+
+1. Another type of bump map
+2. This deals with the direction of a surface
+3. Optimisation step
+
+
+**After watching (learning outcomes)…**
+
+You will understand what normal maps are and how to setup and use them in Blender
+
