@@ -141,4 +141,16 @@ You will understand what normal maps are and how to setup and use them in Blende
 
 **After watching (learning outcomes)…**
 
-Use the compositor to export a height map from a colour map
+You will be able to use the compositor to export a height map from a colour map
+
+
+### 12 Height Map to Normal Map
+
+**In this video (objectives)…**
+
+1. Use a height map as a normal map
+
+
+**After watching (learning outcomes)…**
+
+You will be able to use your heightmaps as normal maps
