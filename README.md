@@ -130,3 +130,15 @@ Copy select properties of one object to one or more objects
 
 You will understand what normal maps are and how to setup and use them in Blender
 
+### 11 Height Map from Color Map
+
+**In this video (objectives)…**
+
+1. Create a height map from only the colour map
+2. Exported the Height Map ans an image
+3. Use the new height map in Blender
+
+
+**After watching (learning outcomes)…**
+
+Use the compositor to export a height map from a colour map
