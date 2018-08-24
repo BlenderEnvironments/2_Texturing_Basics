@@ -154,3 +154,18 @@ You will be able to use the compositor to export a height map from a colour map
 **After watching (learning outcomes)…**
 
 You will be able to use your heightmaps as normal maps
+
+### 13 Introduction To Hand Painting
+
+**In this video (objectives)…**
+
+1. Create a New Image
+2. Change the mode of the UV Image Editor to Paint
+3. Paint a quick black and white image
+
+
+**After watching (learning outcomes)…**
+
+You will be able to create you own custom value image
+
+
