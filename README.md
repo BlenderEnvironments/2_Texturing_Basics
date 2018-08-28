@@ -91,7 +91,7 @@ You will understand that you need to tell Blender **HOW** to apply am image to a
 
 **After watching (learning outcomes)…**
 
-< What the student will be able to do, space above important >
+You will have a series of models to test your textures on.
 
 ### 8 Using A Height Or Displacement Map
 
@@ -167,5 +167,20 @@ You will be able to use your heightmaps as normal maps
 **After watching (learning outcomes)…**
 
 You will be able to create you own custom value image
+
+###  14 Introduction To UV Unwrapping
+
+**In this video (objectives)…**
+
+1. Why we need to UV unwrap manually
+2. How to chop up our model using seams
+3. Understand how to add seams
+
+
+**After watching (learning outcomes)…**
+
+Your will be able to perform basic UV Unwrapping
+
+### Mapnipulating UVs
 
 
