@@ -181,6 +181,18 @@ You will be able to create you own custom value image
 
 Your will be able to perform basic UV Unwrapping
 
+### 15 Checking UV Mapping
+
+**In this video (objectives)…**
+
+1. Load an Image into the UV Image editor
+2. Understand what the two generated image types are used for.
+
+
+**After watching (learning outcomes)…**
+
+Students will be able to use the two types of generated images to assess their unwrap.
+
 ### Mapnipulating UVs
 
 
