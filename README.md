@@ -193,7 +193,7 @@ Your will be able to perform basic UV Unwrapping
 
 Students will be able to use the two types of generated images to assess their unwrap.
 
-### Transforming UV Maps
+### 16 Transforming UV Maps
 
 **In this video (objectives)…**
 
@@ -207,6 +207,20 @@ Students will be able to use the two types of generated images to assess their u
 You will be able to manipulate the UV map to position it correctly onto a texture
 
 
-### Snapping UV Maps
+### 17 Pivot Points and Snapping UV Maps
+
+**In this video (objectives)…**
+
+1. Change pivot points for scaling and rotating a UV map
+2. Use snapping to align UV maps
+3. Use 
+
+
+**After watching (learning outcomes)…**
+
+You will be able to align UV maps with each other and with the image with much more precision
+
+
+
 
 
