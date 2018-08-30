@@ -220,7 +220,18 @@ You will be able to manipulate the UV map to position it correctly onto a textur
 
 You will be able to align UV maps with each other and with the image with much more precision
 
+### 18 Online Texture Sources
+
+**In this video (objectives)…**
+
+1. Where to get premade textures from.
+2. What cc0 means
+3. What resolution do you need?
 
 
+**After watching (learning outcomes)…**
 
+You will be able to use the interest effiently to find appropirate textures for your scenes
+
+Node Wrangler
 
