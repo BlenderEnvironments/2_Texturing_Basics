@@ -193,6 +193,20 @@ Your will be able to perform basic UV Unwrapping
 
 Students will be able to use the two types of generated images to assess their unwrap.
 
-### Mapnipulating UVs
+### Transforming UV Maps
+
+**In this video (objectives)…**
+
+1. Switch between the various selection modes in the UV Image Editor
+2. Synchronise with 3D view selection
+3. Select different parts of the UV Map
+
+
+**After watching (learning outcomes)…**
+
+You will be able to manipulate the UV map to position it correctly onto a texture
+
+
+### Snapping UV Maps
 
 
