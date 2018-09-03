@@ -153,7 +153,7 @@ You will be able to use the compositor to export a height map from a colour map
 
 **After watching (learning outcomes)…**
 
-You will be able to use your heightmaps as normal maps
+You will be able to use your height  maps as normal maps
 
 ### 13 Introduction To Hand Painting
 
@@ -224,14 +224,24 @@ You will be able to align UV maps with each other and with the image with much m
 
 **In this video (objectives)…**
 
-1. Where to get premade textures from.
+1. Where to get pre-made textures from.
 2. What cc0 means
 3. What resolution do you need?
 
 
 **After watching (learning outcomes)…**
 
-You will be able to use the interest effiently to find appropirate textures for your scenes
+You will be able to use the interest efficiently to find appropriate textures for your scenes
 
-Node Wrangler
+### 19 Node Wrangler Introduction
 
+**In this video (objectives)…**
+
+1. Install the Node Wrangler Addon
+2. Explore some of the features
+3. make sure it starts every time with Blender.
+
+
+**After watching (learning outcomes)…**
+
+Understand that add-ons like the Node Wrangler 
