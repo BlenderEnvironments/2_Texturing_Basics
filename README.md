@@ -271,4 +271,15 @@ Be able to able to apply multiple materials to a single mesh object.
 
 You will be able to perform basic texture baking from multiple materials
 
+### 22 Multiple UV Unwraps
 
+**In this video (objectives)…**
+
+1. Make another UV Map
+2. Use a UV Map node to control how the texture is baked
+3. Bake one UV mapped model with multiple materials to a different UV setup
+
+
+**After watching (learning outcomes)…**
+
+You will be able to Unwrap you models with much more proficiency and understand when to use multiple UV Unwraps
