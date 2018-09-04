@@ -245,3 +245,30 @@ You will be able to use the interest efficiently to find appropriate textures fo
 **After watching (learning outcomes)…**
 
 Understand that add-ons like the Node Wrangler 
+
+### 20 Multiple Materials
+
+**In this video (objectives)…**
+
+1. You have choice where to control a single material with textures.
+2. Objects can have multiple materials assigned to themD 
+
+
+**After watching (learning outcomes)…**
+
+Be able to able to apply multiple materials to a single mesh object.
+
+### 21 Baking Base Colour To One Texture
+
+**In this video (objectives)…**
+
+1. Take Multiple materials
+2. Bake their base colour properties to one texture
+3. Use that texture on our model
+
+
+**After watching (learning outcomes)…**
+
+You will be able to perform basic texture baking from multiple materials
+
+
