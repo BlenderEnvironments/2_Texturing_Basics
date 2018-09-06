@@ -212,13 +212,16 @@ You will be able to manipulate the UV map to position it correctly onto a textur
 **In this video (objectives)…**
 
 1. Change pivot points for scaling and rotating a UV map
-2. Use snapping to align UV maps
-3. Use 
+2. Use snapping to align UV maps 
 
 
 **After watching (learning outcomes)…**
 
-You will be able to align UV maps with each other and with the image with much more precision
+You will be able to align UV maps with each other and with the image with much more precision.
+
+### 17a Challenge: Pivot Points and Snapping UV Maps 
+
+Michael presents the challenge solution to the previous lecture
 
 ### 18 Online Texture Sources
 
