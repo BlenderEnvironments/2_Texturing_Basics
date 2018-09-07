@@ -242,7 +242,7 @@ You will be able to use the interest efficiently to find appropriate textures fo
 
 1. Install the Node Wrangler Addon
 2. Explore some of the features
-3. make sure it starts every time with Blender.
+3. Make sure it starts every time with Blender.
 
 
 **After watching (learning outcomes)…**
@@ -254,7 +254,7 @@ Understand that add-ons like the Node Wrangler
 **In this video (objectives)…**
 
 1. You have choice where to control a single material with textures.
-2. Objects can have multiple materials assigned to themD 
+2. Objects can have multiple materials assigned to them 
 
 
 **After watching (learning outcomes)…**
@@ -286,3 +286,9 @@ You will be able to perform basic texture baking from multiple materials
 **After watching (learning outcomes)…**
 
 You will be able to Unwrap you models with much more proficiency and understand when to use multiple UV Unwraps
+
+### 23 Generated Textures
+
+
+
+
