@@ -289,8 +289,51 @@ You will be able to Unwrap you models with much more proficiency and understand 
 
 ### 23 Generated Textures
 
+**In this video (objectives)…**
+
+1. Look at the various types of generated textures
+2. Understand that they can be really quick and simple
+3. Can take considerable time to get a desired result
+
+
+**After watching (learning outcomes)…**
+
+Understand generated textures, where you might use them and their pros and cons
+
 ### 24 Quick Tip: Replacing Nodes 
 
+**In this video (objectives)…**
 
+1. Use a Node Wrangler feature to replace a node with another node
+2. Understand that it helps significantly if the node being replaced is similar 
+3. Saves a great deal of time, avoiding having to relink nodes.
+
+
+**After watching (learning outcomes)…**
+You will gain a better understanding of the Node wrangler and be able to use another one of it's features
+
+### 25 Mixing Nodes Together
+
+**In this video (objectives)…**
+
+1. Look at the numerous ways that you can mix nodes together to create new outputs
+2. It is best to mix similar nodes together
+3. Things can get very create
+
+
+**After watching (learning outcomes)…**
+
+Create more advanced materials and have a better understanding of combining nodes together.
+
+
+### Quick Tips: Previewing Node Output
+
+### The Color Ramp
+
+### Using Generated / Object Coordinates
+
+### Bevel Modifier
+
+### Basic Textures EOS
 
 
