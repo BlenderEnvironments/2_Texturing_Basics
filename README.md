@@ -289,6 +289,8 @@ You will be able to Unwrap you models with much more proficiency and understand 
 
 ### 23 Generated Textures
 
+### 24 Quick Tip: Replacing Nodes 
+
 
 
 
