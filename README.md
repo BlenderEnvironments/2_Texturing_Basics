@@ -326,7 +326,18 @@ You will gain a better understanding of the Node wrangler and be able to use ano
 Create more advanced materials and have a better understanding of combining nodes together.
 
 
-### Quick Tips: Previewing Node Output
+### Quick Tips: Node Wrangler Short Cuts
+
+**In this video (objectives)…**
+
+1. Learn about another couple of Node Wrangler short-cuts
+2. Improve our node based work flow.
+
+
+**After watching (learning outcomes)…**
+
+You will have a much better understand of the 
+
 
 ### The Color Ramp
 
