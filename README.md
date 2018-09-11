@@ -353,9 +353,18 @@ You will have a much better understand of the
 You will understand how to use the colour ramp node to manipulate your textures
 
 
-### Using Generated / Object Coordinates
+### 28 Introducing the Bevel Modifier
 
-### Introducing the Bevel Modifier
+**In this video (objectives)…**
+
+1. Enable the Bevel Modifier 
+2. Use it to control the geometry around edges
+3. Saves having to make extra geometry manually
+
+
+**After watching (learning outcomes)…**
+
+You will be able to use the Bevel modifier to add edge geometry 
 
 ### Basic Textures EOS
 
