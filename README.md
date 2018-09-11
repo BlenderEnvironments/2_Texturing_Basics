@@ -326,12 +326,12 @@ You will gain a better understanding of the Node wrangler and be able to use ano
 Create more advanced materials and have a better understanding of combining nodes together.
 
 
-### Quick Tips: Node Wrangler Short Cuts
+### 26 Quick Tips: Node Wrangler Short Cuts
 
 **In this video (objectives)…**
 
 1. Learn about another couple of Node Wrangler short-cuts
-2. Improve our node based work flow.
+2. Improve our node based workflow.
 
 
 **After watching (learning outcomes)…**
@@ -339,11 +339,23 @@ Create more advanced materials and have a better understanding of combining node
 You will have a much better understand of the 
 
 
-### The Color Ramp
+### 27 The Color Ramp Introduction
+
+**In this video (objectives)…**
+
+1. Explore the color ramp node
+2. Know how to change the settings
+3. Incorporate it into your node toolkit
+
+
+**After watching (learning outcomes)…**
+
+You will understand how to use the colour ramp node to manipulate your textures
+
 
 ### Using Generated / Object Coordinates
 
-### Bevel Modifier
+### Introducing the Bevel Modifier
 
 ### Basic Textures EOS
 
