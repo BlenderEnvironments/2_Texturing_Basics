@@ -366,6 +366,14 @@ You will understand how to use the colour ramp node to manipulate your textures
 
 You will be able to use the Bevel modifier to add edge geometry 
 
-### Basic Textures EOS
+### 29 Texturing Basics End Of Section Challenge
 
+1. Go through your scene and texture the surfaces
+2. Use textures that you think complement the surface
+3. Use image based textures, generated or a mix
+4. Did you know that volumetrics can be textured?
+
+### 30 Texturing Basics Wrap Up
+
+Michael Wraps up the section
 
